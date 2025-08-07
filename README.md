@@ -3,7 +3,7 @@
 ## 🧠 Architecture (ASCII Diagram)
 
 ```
-                         +---------------------+
+                                                  +---------------------+
                          |     CLIENT / API    |
                          +----------+----------+
                                     |
@@ -29,6 +29,7 @@
                    | Azure Function Timer |
                    | Archive Records >90d |
                    +----------------------+
+
 ```
 
 ---
